@@ -1,2 +1,2 @@
 # rsschool-cv
-Alexey
+https://github.com/kazan9sh/rsschool-cv
